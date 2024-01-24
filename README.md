@@ -4,6 +4,8 @@ The Movie Recommendation Engine is a system that leverages k-nearest neighbor se
 
 *Given a user and a number r of recommendations desired, this will efficiently return an ordered list of the top r movies recommended for that user from my movies dataset.*
 
+![Screenshot 2024-01-24 at 6 22 22 PM](https://github.com/yankunm/MovieRecommender/assets/91627484/95aa806b-ffff-4be2-88b4-c13c6d60dbff)
+
 ## Motivation
 
 This project is for the purpose of "Build to Understand", specifically exploring how k-nearest neighbor, collaborative filtering can be used in real life to build movie recommender systems like Netflix. 
